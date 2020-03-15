@@ -92,7 +92,7 @@
 				</configuration>
 			</plugin>
 
-			<!-- For Tomcat -->
+			<!-- For Tomcat doing some change -->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
